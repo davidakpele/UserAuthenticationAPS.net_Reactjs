@@ -1,0 +1,12 @@
+﻿b {
+    color: aquamarine;
+}
+
+.Link {
+    color: #212529 !important;
+}
+
+.Link:hover {
+    color: #212529 !important;
+    text-decoration: underline;
+}
